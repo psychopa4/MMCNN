@@ -1,0 +1,6 @@
+model_checkpoint_path: "easyflow.model-9899"
+all_model_checkpoint_paths: "easyflow.model-299"
+all_model_checkpoint_paths: "easyflow.model-599"
+all_model_checkpoint_paths: "easyflow.model-899"
+all_model_checkpoint_paths: "easyflow.model-1199"
+all_model_checkpoint_paths: "easyflow.model-1499"
