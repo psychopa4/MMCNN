@@ -1,12 +1,13 @@
 # Multi-Memory Convolutional Neural Network for Video Super-Resolution
-This work is based on [Tao et al's work](https://github.com/jiangsutx/SPMC_VideoSR)
+This work is based on [Tao et al](https://github.com/jiangsutx/SPMC_VideoSR)
 
 ## Visual Results
-This is from [Videoset4 dataset](http://openaccess.thecvf.com/content_cvpr_2017/papers/Caballero_Real-Time_Video_Super-Resolution_CVPR_2017_paper.pdf).
+We show the visual results under 4x upscaling.
+This frame is from [Videoset4 dataset](http://openaccess.thecvf.com/content_cvpr_2017/papers/Caballero_Real-Time_Video_Super-Resolution_CVPR_2017_paper.pdf).
 
 ![Image text](https://github.com/psychopa4/MMCNN/blob/master/pictures/000.jpg)
 
-This is from [Myanmar test dataset](https://ieeexplore.ieee.org/document/7444187).
+This frame is from [Myanmar test dataset](https://ieeexplore.ieee.org/document/7444187).
 
 ![Image text](https://github.com/psychopa4/MMCNN/blob/master/pictures/001.jpg)
 
@@ -19,7 +20,7 @@ For reserchers who cannot get access to Google, you may visit Baiduyun, [train](
 
 Unzip the training dataset to ./data/train/ and evaluation dataset to ./data/eval/ .
 
-We only provide the ground truth images and the corresponding 4x downsampled LR images by Bicubic, and you can use PIL or Matlab to generate 2x or 3x downsampled LR images.
+We only provide the ground truth images and the corresponding 4x downsampled LR images by Bicubic, and you may use `PIL` or `Matlab` to generate 2x or 3x downsampled LR images.
 
 ## Environment
   - Python (Tested on 3.6)
