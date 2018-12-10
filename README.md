@@ -18,7 +18,6 @@ We only provide the ground truth images and the corresponding 4x downsampled LR 
 
 ## Training
  - python main.py to train model MMCNN-M10.
- - python rdb.py to train model DRVSR-RDB.
 
 ## Testing
 It should be easy to use 'testvideo()' or 'testvideos()' functions.
