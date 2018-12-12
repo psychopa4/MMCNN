@@ -1,16 +1,6 @@
 # Multi-Memory Convolutional Neural Network for Video Super-Resolution
 This work is based on [Tao et al](https://github.com/jiangsutx/SPMC_VideoSR)
 
-## Visual Results
-We show the visual results under 4x upscaling.
-This frame is from [Videoset4 dataset](http://openaccess.thecvf.com/content_cvpr_2017/papers/Caballero_Real-Time_Video_Super-Resolution_CVPR_2017_paper.pdf).
-
-![Image text](https://github.com/psychopa4/MMCNN/blob/master/pictures/000.jpg)
-
-This frame is from [Myanmar test dataset](https://ieeexplore.ieee.org/document/7444187).
-
-![Image text](https://github.com/psychopa4/MMCNN/blob/master/pictures/001.jpg)
-
 ## Datasets
 We have collected 522 video sequences for training and 20 sequences for evaluation (mainly from documentaries), and in consider of copyright, the datasets should only be used for study.
 
@@ -37,3 +27,13 @@ If you find our code or datasets helpful, please consider citing our work.
 
 ## Contact
 If you have questions or suggestions, please send email to yipeng@whu.edu.cn.
+
+## Visual Results
+We show the visual results under 4x upscaling.
+This frame is from [Videoset4 dataset](http://openaccess.thecvf.com/content_cvpr_2017/papers/Caballero_Real-Time_Video_Super-Resolution_CVPR_2017_paper.pdf).
+
+![Image text](https://github.com/psychopa4/MMCNN/blob/master/pictures/000.jpg)
+
+This frame is from [Myanmar test dataset](https://ieeexplore.ieee.org/document/7444187).
+
+![Image text](https://github.com/psychopa4/MMCNN/blob/master/pictures/001.jpg)
