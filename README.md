@@ -25,6 +25,13 @@ It should be easy to use 'testvideo()' or 'testvideos()' functions.
 ## Citation
 If you find our code or datasets helpful, please consider citing our work.
 
+@ARTICLE{wang2018mmcnn,
+        author = {Wang, Zhongyuan and Yi, Peng and Jiang, Kui and Jiang, Junjun and Han, Zhen and Lu, Tao and Ma, Jiayi},
+        journal={IEEE Transactions on Image Processing},
+        title = {Multi-Memory Convolutional Neural Network for Video Super-Resolution},
+        year={2018},
+    }
+
 ## Contact
 If you have questions or suggestions, please send email to yipeng@whu.edu.cn.
 
